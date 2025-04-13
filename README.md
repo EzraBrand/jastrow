@@ -1,6 +1,5 @@
 # Jastrow Dictionary Abbreviation Modernizer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/jastrow-abbreviation-modernizer/blob/main/jastrow_abbreviation_modernizer.ipynb)
 
 A specialized tool for modernizing and enhancing the readability of entries from Marcus Jastrow's Dictionary of the Targumim, Talmud Bavli, Talmud Yerushalmi and Midrashic Literature.
 
