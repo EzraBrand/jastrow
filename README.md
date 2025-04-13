@@ -1,11 +1,13 @@
 # Jastrow Dictionary Abbreviation Modernizer
 
 
-A specialized tool for modernizing and enhancing the readability of entries from Marcus Jastrow's Dictionary of the Targumim, Talmud Bavli, Talmud Yerushalmi and Midrashic Literature.
+A specialized tool for modernizing and enhancing the readability of entries from Marcus Jastrow's "Dictionary of the Targumim, Talmud Bavli, Talmud Yerushalmi and Midrashic Literature" (1903).
+Using input text from here:
+https://www.sefaria.org.il/Jastrow
 
 ## Description
 
-The Jastrow Dictionary is a valuable resource for Talmudic and rabbinic scholarship, but its entries contain numerous abbreviations, references in Roman numerals, and dense formatting that can make it challenging to read. This tool transforms these entries into more accessible modern format by:
+The 100+ year old Jastrow Dictionary is still a valuable resource for Talmudic and rabbinic scholarship, but its entries contain numerous abbreviations, references in Roman numerals, and dense formatting that can make it challenging to read. This tool transforms these entries into more accessible modern format by:
 
 - Expanding abbreviations to their full forms
 - Converting Roman numeral references to Arabic format
@@ -14,7 +16,7 @@ The Jastrow Dictionary is a valuable resource for Talmudic and rabbinic scholars
 
 ## Features
 
-- **Comprehensive Abbreviation Expansion**: Converts 158+ abbreviations commonly used in Jastrow (e.g., "Ber." → "Berakhot", "Ex. R." → "Shemot Rabbah")
+- **Comprehensive Abbreviation Expansion**: Converts 158+ abbreviations commonly used in Jastrow (e.g., "Ber." → "Berakhot", "Ex. R." → "Shemot Rabbah") (beginning with Jastrow's own list: https://www.sefaria.org/Jastrow%2C_List_of_Abbreviations)
 - **Citation Format Modernization**: Converts Roman numeral references to Arabic format (e.g., "IV, 6" becomes "4:6")
 - **Intelligent Text Structuring**:
   - Splits text into logical paragraphs at source references and semicolons
