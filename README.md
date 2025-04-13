@@ -63,6 +63,8 @@ The tool includes mappings for 158+ abbreviations commonly found in Jastrow's Di
 
 <img width="872" alt="image" src="https://github.com/user-attachments/assets/86b01021-f7bf-4c56-85c6-253ce7054e58" />
 
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/ed6f86c3-e6b0-4416-9110-4d6a46c9f36f" />
+
 
 
 Areas for potential improvement:
